@@ -15,7 +15,7 @@ Neural networks can represent **more features than they have dimensions**. This 
 
 ## Why This Matters
 
-This is the foundation of modern mechanistic interpretability research:
+This work builds on concepts introduced in the mechanistic interpretability literature:
 
 1. **Real neural networks use superposition extensively**. This is why individual neurons are often "polysemantic" (respond to multiple unrelated concepts).
 
@@ -164,6 +164,11 @@ Building this from scratch taught me:
 ## License
 
 MIT License - see LICENSE file
+
+## Attribution
+
+This project is an independent replication inspired by Toy Models of Superposition (Elhage et al., 2022).
+This repository is not affiliated with or endorsed by Anthropic.
 
 ## Author
 
