@@ -62,7 +62,7 @@ When features have different importance weights, the model allocates more capaci
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/toy-model-superposition.git
+git clone https://github.com/designer-coderajay/toy-model-superposition.git
 cd toy-model-superposition
 pip install numpy matplotlib
 ```
